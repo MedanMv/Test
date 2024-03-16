@@ -1,0 +1,9 @@
+.square-pic{
+    position: absolute;
+    right: 0;
+    top: 64px;
+    width: 568px; 
+    height: 568px;
+    background-color: rgb(173, 216, 255);
+    z-index: 7;
+  }
